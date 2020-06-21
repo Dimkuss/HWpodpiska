@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HWpodpiska</string>
+    <string name="user_name">Имя Пользователя</string>
+    <string name="user_email">Электронная почта</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_clear">Очистить</string>
+</resources>
